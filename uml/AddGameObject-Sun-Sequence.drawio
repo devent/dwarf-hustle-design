@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T10:27:07.019Z" agent="5.0 (X11)" etag="2fWDmU1OCD1P6HD0rG1a" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-10T10:40:59.737Z" agent="5.0 (X11)" etag="jl8RITI66CII96w8aCZG" version="13.11.0" type="github">
   <diagram id="vtLuwGIv9xebMNcSjZj7" name="Page-1">
     <mxGraphModel dx="1216" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -57,10 +57,10 @@
         <mxCell id="j3H5Do7mg6AJXIIl2AUD-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Ci0zy3aDHtbK-gbd4pcx-11">
           <mxGeometry x="45" y="320" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ci0zy3aDHtbK-gbd4pcx-12" value="onAddObject" style="html=1;verticalAlign=bottom;endArrow=open;exitX=1.1;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="Ci0zy3aDHtbK-gbd4pcx-9" target="Ci0zy3aDHtbK-gbd4pcx-11" edge="1">
+        <mxCell id="Ci0zy3aDHtbK-gbd4pcx-12" value="onAddObject" style="html=1;verticalAlign=bottom;endArrow=open;exitX=1.1;exitY=0.725;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="580" y="360" as="sourcePoint" />
-            <mxPoint x="660" y="360" as="targetPoint" />
+            <mxPoint x="701" y="290" as="sourcePoint" />
+            <mxPoint x="909.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ci0zy3aDHtbK-gbd4pcx-13" value=":SunActor" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
@@ -120,10 +120,10 @@
             <mxPoint x="1079.5" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j3H5Do7mg6AJXIIl2AUD-6" value="EntityComponentsUpdatedEvent" style="html=1;verticalAlign=bottom;endArrow=open;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="Ci0zy3aDHtbK-gbd4pcx-13" target="Ci0zy3aDHtbK-gbd4pcx-2">
+        <mxCell id="j3H5Do7mg6AJXIIl2AUD-6" value="EntityComponentsUpdatedEvent" style="html=1;verticalAlign=bottom;endArrow=open;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1219.5" y="391" as="sourcePoint" />
-            <mxPoint x="1089.5" y="391" as="targetPoint" />
+            <mxPoint x="1079.5" y="491" as="sourcePoint" />
+            <mxPoint x="289.5" y="491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="j3H5Do7mg6AJXIIl2AUD-8" value="&amp;lt;&amp;lt;reply&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=open;endFill=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" edge="1" parent="1">
@@ -136,6 +136,18 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1209.5" y="440" as="sourcePoint" />
             <mxPoint x="909.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j3H5Do7mg6AJXIIl2AUD-12" value=":MainMap" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="120" width="100" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="j3H5Do7mg6AJXIIl2AUD-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#d5e8d4;strokeColor=#82b366;horizontal=0;" vertex="1" parent="j3H5Do7mg6AJXIIl2AUD-12">
+          <mxGeometry x="45" y="313" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j3H5Do7mg6AJXIIl2AUD-14" value="addGameObject" style="html=1;verticalAlign=bottom;endArrow=classicThin;endFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1209.5" y="433" as="sourcePoint" />
+            <mxPoint x="1369.5" y="433" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
