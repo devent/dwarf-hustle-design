@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-01-02T11:58:18.030Z" agent="5.0 (X11)" version="14.1.4" etag="v_cAHuq8uGC8n15Jd3eY" type="github"><diagram id="uKU9A1B13DeepLOjT6Cy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-03T10:45:48.788Z" agent="5.0 (X11)" etag="GEyjpLZVYQs7nw9dBHfj" version="14.1.4" type="github">
+  <diagram id="uKU9A1B13DeepLOjT6Cy" name="Page-1">
+    <mxGraphModel dx="2027" dy="1278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-1" value="globalpom-groovy-gmavenplus" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-2" value="dwarfhustle-parent" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-3" value="dwarfhustle-assets" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-4" value="dwarfhustle-backend" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-5" value="dwarfhustle-model" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="770" y="450" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-6" value="dwarfhustle-backend-jcs-cache" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="450" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-7" value="dwarfhustle-backend-orientdb-generator" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-8" value="dwarfhustle-backend-orientdb-model" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="590" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-9" value="dwarfhustle-backend-orientdb-model-base" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-10" value="dwarfhustle-backend-orientdb-model-generic" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-11" value="dwarfhustle-backend-orientdb-model-people" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="800" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-12" value="dwarfhustle-backend-orientdb-tests" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-13" value="dwarfhustle-backend-tasks" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="940" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-14" value="dwarfhustle-backend-test-generate" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1010" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-15" value="dwarfhustle-model-assets" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="450" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-16" value="dwarfhustle-model-game" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="520" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-17" value="dwarfhustle-model-components" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="590" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-18" value="dwarfhustle-model-generic" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="660" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-19" value="dwarfhustle-model-animals" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="730" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-20" value="dwarfhustle-model-people" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="800" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-21" value="dwarfhustle-model-plants" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="870" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-22" value="dwarfhustle-model-sunmoon" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="940" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-23" value="dwarfhustle-gamemainmap" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="450" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-24" value="dwarfhustle-gamemainmap-app-jme" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="450" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-25" value="dwarfhustle-model-game" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="520" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-26" value="dwarfhustle-model-components" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="590" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-27" value="dwarfhustle-model-generic" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="660" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-28" value="dwarfhustle-model-animals" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="730" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-29" value="dwarfhustle-model-people" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="800" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-30" value="dwarfhustle-model-plants" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="870" width="310" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nYNFxhxVLeYU1pLjJmcj-31" value="dwarfhustle-model-sunmoon" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1810" y="940" width="310" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
